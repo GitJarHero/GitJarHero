@@ -16,8 +16,8 @@
 [![website](./img/instagram-light.svg)](https://instagram.com#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://instagram.com#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/discord-light (1).svg)](https://discordapp.com/users/216163718801653760#gh-light-mode-only)
-[![website](./img/discord-dark (1).svg)](https://discordapp.com/users/216163718801653760#gh-dark-mode-only)
+[![website](./img/discord-light-36.svg)](https://discordapp.com/users/216163718801653760#gh-light-mode-only)
+[![website](./img/discord-dark-36.svg)](https://discordapp.com/users/216163718801653760#gh-dark-mode-only)
 
 
 ---
