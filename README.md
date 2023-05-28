@@ -16,8 +16,8 @@
 ### My Languages & Tools
 
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
-<img align="left" alt="Java" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" style="padding-right:10px;" />
-<img align="left" alt="HTML" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Java" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" style="padding-right:10px; margin-bottom:px;" />
+<img align="left" alt="HTML" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px; margin-top:px;" />
 <img align="left" alt="CSS" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
 <img align="left" alt="JavaScript" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Spring" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" style="padding-right:10px;" />
@@ -31,19 +31,5 @@
 <img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />
 <img align="left" alt="Terminal" width="26px" src="./img/terminal-dark.svg" />
 
-<style>
-.image-container {
-  display: flex;
-  flex-wrap: wrap;
-}
-
-.image-container img:nth-child(odd) {
-  margin-bottom: 10px;
-}
-
-.image-container img:nth-child(even) {
-  margin-top: 10px;
-}
-</style>
 
 [discord]: https://discordapp.com/users/216163718801653760
