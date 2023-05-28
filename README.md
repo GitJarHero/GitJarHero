@@ -1,4 +1,18 @@
-### Hi there 👋
+### Hi there👋
+
+# I'm Pascal, a student of Applied Computer Science based in Germany.
+
+
+
+
+
+
+
+
+
+
+
+
 
 <!--
 **t0gepi/t0gepi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
