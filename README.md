@@ -1,14 +1,6 @@
 ### Hi there, I'm Pascal👋
 
-## Currently Student & Fullstack Dev!
-
-- 🔭 I’m currently working in E-Commerce
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 📫 How to reach me: [Discord][discord]
-
-### Connect with me:
+# I'm Pascal, a student of Applied Computer Science based in Germany.
 
 
 
