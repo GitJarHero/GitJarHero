@@ -12,4 +12,7 @@
 
 
 
+<img align="left" alt="Java" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" style="padding-right:10px;" />
+
+
 [discord]: https://discordapp.com/users/216163718801653760
