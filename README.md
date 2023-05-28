@@ -10,11 +10,11 @@
 
 ### Connect with me:
 
-[![website](./img/linkedin-light.svg)](https://linkedin.com)
-[![website](./img/linkedin-dark.svg)](https://linkedin.com)
+[![website](./img/linkedin-light.svg)](https://linkedin.com#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://linkedin.com#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://instagram.com)
-[![website](./img/instagram-dark.svg)](https://instagram.com)
+[![website](./img/instagram-light.svg)](https://instagram.com#gh-light-mode-only)
+[![website](./img/instagram-dark.svg)](https://instagram.com#gh-dark-mode-only)
 
 
 ---
