@@ -1,6 +1,6 @@
-### Hi there👋
+## Hi there👋
 
-# I'm Pascal, a student of Applied Computer Science based in Germany.
+### I'm Pascal, a student of Applied Computer Science based in Germany.
 
 
 
