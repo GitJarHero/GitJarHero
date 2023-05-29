@@ -8,8 +8,9 @@
 
 - 🔭 I’m currently working in E-Commerce
 - 📚 Studying Applied Computer Science
-- 🌱 I’m currently learning... everything 🤣
-- 🤔 I’m looking for help with ...
+- 🌱 I’m currently learning about AI/deeplearning w/ Python 🤖
+- ⚡ Java enthusiast
+- 🥅 2023 Goal: Building a Website
 - 📫 How to reach me: [Discord][discord]
 
 ### Connect with me:
