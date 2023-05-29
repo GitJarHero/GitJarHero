@@ -5,8 +5,11 @@
 <img width="100%" height="100" alt="cartman-wazzup" src="./img/welcome.gif">
 
 🌟 About Me 🌟
-
-👋 Hello there! I'm Pascal, a passionate developer from Germany 🇩🇪 with a penchant for creativity and curiosity. I see code as an artist sees their canvas—a means to bring my ideas to life and craft unique digital experiences.
+<pre>
+👋 Hello there! I'm
+   Do
+</pre>
+👋 Hello there! I'm Pascal, a passionate developer from Germany with a penchant for creativity and curiosity. I see code as an artist sees their canvas—a means to bring my ideas to life and craft unique  digital experiences.
 
 🚀 My drive is to push technological boundaries and discover innovative solutions. With Java as my primary language, I have honed my skills and gained extensive experience in its ecosystem. Currently, I am studying Applied Computer Sciences while simultaneously contributing to a development team in the e-commerce domain.
 
