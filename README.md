@@ -1,4 +1,4 @@
-<img width="100%" alt="cartman-wazzup" src="./img/welcome.gif">
+<img width="100%" height="100" alt="cartman-wazzup" src="./img/welcome.gif">
 
 ### Hi there, I'm Pascal👋
 ## Current Student & Fullstack Dev from Germany!
