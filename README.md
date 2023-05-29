@@ -47,8 +47,5 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=t0gepi&layout=compact&theme=github_dark_dimmed)](https://github.com/anuraghazra/github-readme-stats)
 
 
-### 📊 Repos
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=t0gepi&repo=JMate)](https://github.com/t0gepi/JMate)
-
 
 [discord]: https://discordapp.com/users/216163718801653760
