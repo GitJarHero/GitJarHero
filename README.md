@@ -17,14 +17,6 @@
 
 <img width="100%" height="100" alt="cartman-wazzup" src="./img/welcome.gif">
 
-#
-
-- 🔭 I’m currently working in E-Commerce
-- 📚 Studying Applied Computer Science
-- 🌱 I’m currently learning about AI/deeplearning w/ Python 🤖
-- ⚡ Java enthusiast
-- 🥅 2023 Goal: Building a Website
-- 📫 How to reach me: [Discord][discord]
 
 ### Connect with me:
 
