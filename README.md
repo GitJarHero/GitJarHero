@@ -1,6 +1,8 @@
 ### Hi there, I'm Pascal👋
 ## Current Student & Fullstack Dev from Germany!
 
+<div style="width:480px"><iframe allow="fullscreen" frameBorder="0" height="270" src="https://giphy.com/embed/wIOAuSh75NVUPJa9Or/video" width="480"></iframe></div>
+
 - 🔭 I’m currently working in E-Commerce
 - 📚 Studying Applied Computer Science
 - 🌱 I’m currently learning everything 🤣
