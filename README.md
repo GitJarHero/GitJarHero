@@ -44,8 +44,8 @@
 
 ### 📊 Stats
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=t0gepi&show_icons=true&theme=github_dark_dimmed&border_color=17d6e8)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=t0gepi&layout=compact&theme=github_dark_dimmed&border_color=17d6e8)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=t0gepi&show_icons=true&theme=github_dark_dimmed)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=t0gepi&layout=compact&theme=github_dark_dimmed)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
