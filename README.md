@@ -90,7 +90,7 @@
 ### 📊 Stats
 
 <img width="48%" align="left" src="https://github-readme-stats.vercel.app/api?username=t0gepi&show_icons=true&theme=github_dark_dimmed">
-<img width="48%" style="height: 105%;" align="left" src="https://streak-stats.demolab.com?user=t0gepi&theme=tokyonight">
+<img width="48%" height="200px" align="left" src="https://streak-stats.demolab.com?user=t0gepi&theme=tokyonight">
 <br />
 <br />
 <br />
