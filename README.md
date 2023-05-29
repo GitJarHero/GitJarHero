@@ -45,7 +45,7 @@
 ### 📊 Stats
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=t0gepi&show_icons=true&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=t0gepi&layout=compact&border_color=DEG,00FFFF,FF00FF)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=t0gepi&layout=compact&theme=dark&border_color=DEG,00FFFF,FF00FF)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
