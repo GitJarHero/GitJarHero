@@ -89,8 +89,8 @@
 
 ### 📊 Stats
 
-<img width="47%" align="center" src="https://github-readme-stats.vercel.app/api?username=t0gepi&show_icons=true&theme=github_dark_dimmed">
-<img width="47%" align="center" src="https://streak-stats.demolab.com?user=t0gepi&theme=tokyonight">
+<img width="40%" align="center" src="https://github-readme-stats.vercel.app/api?username=t0gepi&show_icons=true&theme=github_dark_dimmed">
+<img width="40%" align="center" src="https://streak-stats.demolab.com?user=t0gepi&theme=tokyonight">
 
 #
 
