@@ -23,7 +23,6 @@
 [![website](./img/discord-light-24.svg)](https://discordapp.com/users/216163718801653760#gh-light-mode-only)
 [![website](./img/discord-dark-24.svg)](https://discordapp.com/users/216163718801653760#gh-dark-mode-only)
 
----
 
 ### My Languages & Tools
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
