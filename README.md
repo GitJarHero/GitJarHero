@@ -1,7 +1,10 @@
+
+# t0gepi
+**`Digital Craftsman (Developer/Student)`**
+
 <img width="100%" height="100" alt="cartman-wazzup" src="./img/welcome.gif">
 
-### t0gepi
-**`Digital Craftsman (Developer/Student)`**
+#
 
 - 🔭 I’m currently working in E-Commerce
 - 📚 Studying Applied Computer Science
