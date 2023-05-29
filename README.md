@@ -94,9 +94,7 @@
 
 #
 
-<div align="center">
-[![GitHub Streak](https://streak-stats.demolab.com?user=t0gepi)](https://git.io/streak-stats)
-</div>
+<img align="center" src="https://streak-stats.demolab.com?user=t0gepi">
 
 #
 
