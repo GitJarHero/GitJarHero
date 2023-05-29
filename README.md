@@ -122,10 +122,7 @@ As my journey progressed, I embarked on formal studies and entered the professio
 Driven by an insatiable curiosity, I now find myself immersed in the exciting realms of artificial intelligence and deep learning. Exploring the fields of machine learning and AI algorithms, I'm continuously honing my abilities and exploring innovative ways to solve problems and create intelligent systems.
 
 Join me on this exciting path as I continue to explore the vast landscape of coding. Together, we can push boundaries, build remarkable projects, and make a positive impact on the world.
-
----
-
-Feel free to customize and adapt the text to your liking. Good luck with your GitHub profile, and enjoy your coding journey!
+  
 </details>
   
 [discord]: https://discordapp.com/users/216163718801653760
