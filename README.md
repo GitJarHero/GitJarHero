@@ -87,7 +87,7 @@
 
 ---
 
-### 📊 Stats
+## 📈 Stats
 
 <p align="center">
 <img width="47%" src="https://github-readme-stats.vercel.app/api?username=t0gepi&show_icons=true&theme=github_dark_dimmed">
