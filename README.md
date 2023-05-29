@@ -9,7 +9,8 @@
 <img width="100%" height="100" alt="cartman-wazzup" src="./img/welcome.gif">
 
 
-### 🌟 About Me 🌟
+<h3 align="center"> 🌟 About Me 🌟 </h3>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=16F728&center=true&vCenter=true&width=435&lines=Open+source+enthusiast;Always+learning+something+new;Nice+to+meet+you...)](https://git.io/typing-svg)
 <table>
   <tr>
     <td>👋</td>
