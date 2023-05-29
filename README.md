@@ -109,9 +109,6 @@
 
 <details>
   <summary><h3>My coding journey! 🚀</h3></summary>
----
-
-Welcome to my coding journey! 🚀
 
 I started my adventure into the world of programming by crafting Minecraft plugins and diving headfirst into Java. It was fascinating to see how I could extend the game's functionality and create unique experiences for players. As I delved deeper, my passion for coding grew, and I began exploring other languages and technologies.
 
