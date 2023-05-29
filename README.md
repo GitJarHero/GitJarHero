@@ -46,8 +46,5 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=t0gepi&show_icons=true&theme=github_dark_dimmed)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=t0gepi&layout=compact&theme=github_dark_dimmed)](https://github.com/anuraghazra/github-readme-stats)
 
-### 📊 Repo
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=t0gepi&repo=JeremyBot)](https://github.com/codeSTACKr/minter-dapp)
-
 
 [discord]: https://discordapp.com/users/216163718801653760
