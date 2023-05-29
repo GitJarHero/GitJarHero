@@ -11,7 +11,7 @@
 <h3 align="center"> 🌟 About Me 🌟 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&color=16F728&center=true&vCenter=true&width=435&lines=Open+source+enthusiast;Always+learning+something+new;Nice+to+meet+you+.+.+.+">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&color=16F728&width=900&lines=Give+a+man+a+match%2C+and+he%E2%80%99ll+be+warm+for+a+few+hours.;Set+him+on+fire%2C+and+he+will+be+warm+for+the+rest+of+his+life.;I+made+a+website+for+orphans.;It+doesn't+have+a+homepage.;My+grandma+has+the+heart+of+a+lion+and+a+lifetime+ban+from+the+zoo.;I+threw+a+boomerang+a+few+years+ago.+I+now+live+in+constant+fear.">
 </p>
   
 <table>
