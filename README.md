@@ -1,5 +1,4 @@
 ### Hi there, I'm Pascal👋
-
 ## Current Student & Fullstack Dev from Germany!
 
 - 🔭 I’m currently working in E-Commerce
