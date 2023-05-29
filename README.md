@@ -40,7 +40,7 @@
 <img align="left" alt="Terminal" width="36px" src="./img/terminal-dark.svg" />
 
 #
-
+---
 ### 📊 Stats
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=t0gepi&show_icons=true&theme=tokyonight)
