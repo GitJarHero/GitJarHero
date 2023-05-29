@@ -94,7 +94,7 @@
 
 #
 
-<img align="center" src="https://streak-stats.demolab.com?user=t0gepi">
+<img align="center" src="https://streak-stats.demolab.com?user=t0gepi&theme=tokyonight">
 
 #
 
