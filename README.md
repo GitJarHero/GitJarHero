@@ -2,6 +2,8 @@
 # t0gepi
 **`Digital Craftsman (Developer/Student)`**
 
+<img width="100%" height="100" alt="cartman-wazzup" src="./img/welcome.gif">
+
 🌟 About Me 🌟
 
 👋 Hello there! I'm [Your Name], a passionate developer with a penchant for creativity and curiosity. I see code as an artist sees their canvas—a means to bring my ideas to life and craft unique digital experiences.
@@ -13,9 +15,6 @@
 🎯 On my GitHub, you'll find a collection of my projects, showcasing my expertise in Java and highlighting my passion for building robust, scalable applications. Join me on this exciting journey as we explore the vast possibilities of software development!
 
 📫 Feel free to reach out to me through the contact information provided. Let's connect, collaborate, and create something amazing together!
-
-
-<img width="100%" height="100" alt="cartman-wazzup" src="./img/welcome.gif">
 
 
 ### Connect with me:
