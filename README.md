@@ -23,10 +23,9 @@
 [![website](./img/discord-light-24.svg)](https://discordapp.com/users/216163718801653760#gh-light-mode-only)
 [![website](./img/discord-dark-24.svg)](https://discordapp.com/users/216163718801653760#gh-dark-mode-only)
 
-
 ---
-### My Languages & Tools
 
+### My Languages & Tools
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 <img align="left" alt="Java" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" style="padding-right:10px;" />
 <img align="left" alt="HTML" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px; " />
@@ -44,7 +43,7 @@
 <img align="left" alt="Terminal" width="36px" src="./img/terminal-dark.svg" />
 <br />
 
-#
+---
 
 ### 📊 Stats
 
