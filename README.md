@@ -54,7 +54,7 @@
 #
 
 <details>
-  <h3> Some h3 header</h3>
+  <summary><h3> Some h3 header</h3></summary>
  This is a little text that i just write. It shoul serve as a placeholder for a larger text, that i might write in the future.
  I don't know what i will be writing here but it should be something about me. For now, I will just leave this how it is.
 </details>
