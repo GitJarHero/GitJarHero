@@ -108,9 +108,26 @@
 #
 
 <details>
-  <summary><h3> Some h3 header</h3></summary>
- This is a little text that i just write. It shoul serve as a placeholder for a larger text, that i might write in the future.
- I don't know what i will be writing here but it should be something about me. For now, I will just leave this how it is.
+  <summary><h3>My coding journey! 🚀</h3></summary>
+  Sure! Here's a text for your GitHub profile:
+
+---
+
+Welcome to my coding journey! 🚀
+
+I started my adventure into the world of programming by crafting Minecraft plugins and diving headfirst into Java. It was fascinating to see how I could extend the game's functionality and create unique experiences for players. As I delved deeper, my passion for coding grew, and I began exploring other languages and technologies.
+
+Python soon caught my attention, and I found myself automating numerous small tasks with its simplicity and versatility. From there, I ventured into developing GUI applications and mini-games, expanding my skills and gaining a deeper understanding of software development.
+
+As my journey progressed, I embarked on formal studies and entered the professional realm of programming. I focused on learning frameworks, emphasizing clean code practices, and mastering coding patterns. This phase allowed me to refine my skills and tackle more significant and complex projects with confidence.
+
+Driven by an insatiable curiosity, I now find myself immersed in the exciting realms of artificial intelligence and deep learning. Exploring the fields of machine learning and AI algorithms, I'm continuously honing my abilities and exploring innovative ways to solve problems and create intelligent systems.
+
+Join me on this exciting path as I continue to explore the vast landscape of coding. Together, we can push boundaries, build remarkable projects, and make a positive impact on the world.
+
+---
+
+Feel free to customize and adapt the text to your liking. Good luck with your GitHub profile, and enjoy your coding journey!
 </details>
   
 [discord]: https://discordapp.com/users/216163718801653760
