@@ -109,8 +109,6 @@
 
 <details>
   <summary><h3>My coding journey! 🚀</h3></summary>
-  Sure! Here's a text for your GitHub profile:
-
 ---
 
 Welcome to my coding journey! 🚀
