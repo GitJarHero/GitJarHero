@@ -94,6 +94,12 @@
 
 #
 
+<div align="center">
+[![GitHub Streak](https://streak-stats.demolab.com?user=t0gepi)](https://git.io/streak-stats)
+</div>
+
+#
+
 <details>
   <summary><h3> Some h3 header</h3></summary>
  This is a little text that i just write. It shoul serve as a placeholder for a larger text, that i might write in the future.
