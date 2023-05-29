@@ -6,8 +6,18 @@
 
 
 <table>
-  <tr><td>👋</td><td>Hello there! I'm Pascal, a passionate developer from Germany with a penchant for creativity and curiosity. I see code as an artist sees their canvas—a means to bring my ideas to life and craft unique digital experiences.</td></tr>
-  <tr><td>🚀</td><td>My drive is to push technological boundaries and discover innovative solutions. With Java as my primary language, I have honed my skills and gained extensive experience in its ecosystem. Currently, I am studying Applied Computer Sciences while simultaneously contributing to a development team in the e-commerce domain.</td></tr>
+  <tr>
+    <td>👋</td>
+    <td>
+      Hello there! I'm Pascal, a passionate developer from Germany with a penchant for creativity and curiosity. I see code as an artist sees their canvas—a means to bring my ideas to life 
+      and craft unique digital experiences.
+    </td>
+  </tr>
+  
+  <tr>
+    <td>🚀</td>
+    <td>
+      My drive is to push technological boundaries and discover innovative solutions. With Java as my primary language, I have honed my skills and gained extensive experience in its ecosystem. Currently, I am studying Applied Computer Sciences while simultaneously contributing to a development team in the e-commerce domain.</td></tr>
 
 </table>
 
