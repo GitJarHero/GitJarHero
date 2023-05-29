@@ -1,7 +1,8 @@
+<img alt="cartman-wazzup" width="300" src="./img/welcome.gif">
+
 ### Hi there, I'm Pascal👋
 ## Current Student & Fullstack Dev from Germany!
 
-<img align="right" alt="cartman-wazzup" width="300" src="./img/cartman-wazzup.gif">
 
 - 🔭 I’m currently working in E-Commerce
 - 📚 Studying Applied Computer Science
