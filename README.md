@@ -96,7 +96,7 @@
 
 #
 
-<img width="47%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=t0gepi&layout=compact&theme=github_dark_dimmed">
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=t0gepi&layout=compact&theme=github_dark_dimmed">
 
 #
 
