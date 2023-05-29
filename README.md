@@ -1,6 +1,10 @@
 
-<h1 align="center">t0gepi</h1>
+<div align="center">
+
+# t0gepi
 **`Digital Craftsman (Developer/Student)`**
+
+</div>
 
 <img width="100%" height="100" alt="cartman-wazzup" src="./img/welcome.gif">
 
