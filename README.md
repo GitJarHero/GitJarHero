@@ -6,9 +6,9 @@
 
 🌟 About Me 🌟
 
-👋 Hello there! I'm [Your Name], a passionate developer with a penchant for creativity and curiosity. I see code as an artist sees their canvas—a means to bring my ideas to life and craft unique digital experiences.
+👋 Hello there! I'm Pascal, a passionate developer from Germany 🇩🇪 with a penchant for creativity and curiosity. I see code as an artist sees their canvas—a means to bring my ideas to life and craft unique digital experiences.
 
-🚀 My drive is to push technological boundaries and discover innovative solutions. With Java as my primary language, I have honed my skills and gained extensive experience in its ecosystem. Currently, I am studying [your field of study] while simultaneously contributing to a development team in the e-commerce domain.
+🚀 My drive is to push technological boundaries and discover innovative solutions. With Java as my primary language, I have honed my skills and gained extensive experience in its ecosystem. Currently, I am studying Applied Computer Sciences while simultaneously contributing to a development team in the e-commerce domain.
 
 🌱 I thrive in collaborative environments, working alongside talented developers to solve complex problems and deliver high-quality solutions. I'm always eager to learn from my peers, continuously improving my craft and embracing new technologies.
 
