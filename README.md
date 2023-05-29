@@ -1,7 +1,7 @@
 ### Hi there, I'm Pascal👋
 ## Current Student & Fullstack Dev from Germany!
 
-<img align="right" alt="cartman-wazzup" src="./img/cartman-wazzup.gif">
+<img align="right" alt="cartman-wazzup" width="100" src="./img/cartman-wazzup.gif">
 
 - 🔭 I’m currently working in E-Commerce
 - 📚 Studying Applied Computer Science
