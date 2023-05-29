@@ -42,8 +42,8 @@
 <img align="left" alt="Git" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
 <img align="left" alt="GitHub" width="36px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />
 <img align="left" alt="Terminal" width="36px" src="./img/terminal-dark.svg" />
+<br />
 
-#
 #
 
 ### 📊 Stats
@@ -51,5 +51,12 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=t0gepi&show_icons=true&theme=github_dark_dimmed)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=t0gepi&layout=compact&theme=github_dark_dimmed)](https://github.com/anuraghazra/github-readme-stats)
 
+#
 
+<details>
+  <h3> Some h3 header</h3>
+ This is a little text that i just write. It shoul serve as a placeholder for a larger text, that i might write in the future.
+ I don't know what i will be writing here but it should be something about me. For now, I will just leave this how it is.
+</details>
+  
 [discord]: https://discordapp.com/users/216163718801653760
