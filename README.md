@@ -49,4 +49,5 @@
 ### 📊 Repo
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=t0gepi&repo=JeremyBot)](https://github.com/codeSTACKr/minter-dapp)
 
+
 [discord]: https://discordapp.com/users/216163718801653760
