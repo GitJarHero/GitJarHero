@@ -66,7 +66,9 @@
 &nbsp;&nbsp;
 <img alt="discord" src="./img/discord.png" width="30px">
 &nbsp;&nbsp;
-<img alt="gmail" src="./img/gmail.png" width="30px">
+  <a href="mailto:pascalkahler@gmail.com">
+    <img alt="gmail" src="./img/gmail.png" width="30px">
+  </a>
 </p>
 
 ### My Languages & Tools
