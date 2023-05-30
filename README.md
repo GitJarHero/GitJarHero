@@ -65,6 +65,8 @@
 <img alt="instagram" src="./img/instagram.png" width="30px">
 &nbsp;&nbsp;
 <img alt="discord" src="./img/discord.png" width="30px">
+&nbsp;&nbsp;
+<img alt="gmail" src="./img/gmail.png" width="30px">
 </p>
 
 ### My Languages & Tools
