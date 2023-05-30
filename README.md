@@ -59,11 +59,9 @@
 
 ### Connect with me:
 
-[![website](./img/linkedin-light.svg)](https://linkedin.com#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://linkedin.com#gh-dark-mode-only)
+<img alt="linkedin" src="./img/linkedin.png" width="30px">
 &nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://instagram.com#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://instagram.com#gh-dark-mode-only)
+<img alt="instagram" src="./img/instagram.png" width="30px">
 &nbsp;&nbsp;
 [![website](./img/discord-light-24.svg)](https://discordapp.com/users/216163718801653760#gh-light-mode-only)
 [![website](./img/discord-dark-24.svg)](https://discordapp.com/users/216163718801653760#gh-dark-mode-only)
