@@ -59,9 +59,9 @@
 
 ### Connect with me:
 
-<img alt="linkedin" src="./img/linkedin.png" width="30px">
+<img align="left" alt="linkedin" src="./img/linkedin.png" width="30px">
 &nbsp;&nbsp;
-<img alt="instagram" src="./img/instagram.png" width="30px">
+<img align="left" alt="instagram" src="./img/instagram.png" width="30px">
 &nbsp;&nbsp;
 [![website](./img/discord-light-24.svg)](https://discordapp.com/users/216163718801653760#gh-light-mode-only)
 [![website](./img/discord-dark-24.svg)](https://discordapp.com/users/216163718801653760#gh-dark-mode-only)
