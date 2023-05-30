@@ -60,11 +60,17 @@
 ### Connect with me:
 
 <p align="left">
-<img alt="linkedin" src="./img/linkedin.png" width="30px">
+  <a href="https://www.linkedin.com/">
+    <img alt="linkedin" src="./img/linkedin.png" width="30px">
+  </a>
 &nbsp;&nbsp;
-<img alt="instagram" src="./img/instagram.png" width="30px">
+  <a href="https://instagram.com">
+    <img alt="instagram" src="./img/instagram.png" width="30px">
+  </a>
 &nbsp;&nbsp;
-<img alt="discord" src="./img/discord.png" width="30px">
+  <a href="https://discordapp.com/users/216163718801653760">
+    <img alt="discord" src="./img/discord.png" width="30px">
+  </a>
 &nbsp;&nbsp;
   <a href="mailto:pascalkahler@gmail.com">
     <img alt="gmail" src="./img/gmail.png" width="30px">
