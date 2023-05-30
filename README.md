@@ -104,8 +104,6 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=t0gepi&layout=compact&theme=github_dark_dimmed">
 
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=t0gepi&theme=tokyonight">
-
 #
 
 <details>
