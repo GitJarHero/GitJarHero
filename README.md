@@ -18,7 +18,7 @@
   <tr>
     <td>👋</td>
     <td>
-      Hello there! I'm Pascal, a passionate developer from Germany with a penchant for creativity and curiosity. I see code as an artist sees their canvas—a means to bring my ideas to life 
+      Hello there! I'm a passionate developer from Germany with a penchant for creativity and curiosity. I see code as an artist sees their canvas—a means to bring my ideas to life 
       and craft unique digital experiences.
     </td>
   </tr>
